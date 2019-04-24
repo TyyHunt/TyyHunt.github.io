@@ -1,12 +1,10 @@
 ---
 layout: post
-title:      "Sinatra Porfolio Project"
+title:      "Sinatra Porfolio Project: Summer InTent"
 date:       2019-04-23 20:36:59 -0400
 permalink:  sinatra_porfolio_project
 ---
 
-
-## Summer InTent:
 
 #### It's spring here in Colorado and everyone is itching to get outdoors.  With nothing but nature on my mind, I came up with the idea for my Sinatra project.  Summer InTent is a web application that allows users to log in and create plans for the summer as well as check other users plans to see how they compare.
 
